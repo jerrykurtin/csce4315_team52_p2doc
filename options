@@ -1,0 +1,28 @@
+--class-path
+'/Users/jerry/.m2/repository/org/openjfx/javafx-controls/11.0.2/javafx-controls-11.0.2.jar:/Users/jerry/.m2/repository/org/openjfx/javafx-graphics/11.0.2/javafx-graphics-11.0.2.jar:/Users/jerry/.m2/repository/org/openjfx/javafx-base/11.0.2/javafx-base-11.0.2.jar:/Users/jerry/.m2/repository/org/openjfx/javafx-fxml/11.0.2/javafx-fxml-11.0.2.jar:/Users/jerry/.m2/repository/org/postgresql/postgresql/42.2.8/postgresql-42.2.8.jar'
+--module-path
+'/Users/jerry/.m2/repository/org/openjfx/javafx-graphics/11.0.2/javafx-graphics-11.0.2-mac.jar:/Users/jerry/.m2/repository/org/openjfx/javafx-base/11.0.2/javafx-base-11.0.2-mac.jar:/Users/jerry/Library/CloudStorage/OneDrive-Personal/school/315_studio/Team52-Project2/OrderTakingPOS/target/classes:/Users/jerry/.m2/repository/org/openjfx/javafx-fxml/11.0.2/javafx-fxml-11.0.2-mac.jar:/Users/jerry/.m2/repository/org/openjfx/javafx-controls/11.0.2/javafx-controls-11.0.2-mac.jar:/Users/jerry/.m2/repository/org/kordamp/bootstrapfx/bootstrapfx-core/0.4.0/bootstrapfx-core-0.4.0.jar'
+--patch-module
+csce315.group52.ordertakingpos='/Users/jerry/Library/CloudStorage/OneDrive-Personal/school/315_studio/Team52-Project2/OrderTakingPOS/src/main/java'
+-encoding
+'UTF-8'
+-protected
+--module-source-path
+'/Users/jerry/Library/CloudStorage/OneDrive-Personal/school/315_studio/Team52-Project2/OrderTakingPOS/target/site/apidocs/src'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/Users/jerry/Library/CloudStorage/OneDrive-Personal/school/315_studio/Team52-Project2/OrderTakingPOS/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'OrderTakingPOS 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/en/java/javase/11/docs/api' '/Users/jerry/Library/CloudStorage/OneDrive-Personal/school/315_studio/Team52-Project2/OrderTakingPOS/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'OrderTakingPOS 1.0-SNAPSHOT API'
